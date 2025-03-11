@@ -27,6 +27,10 @@ Additionally, the project helps improve the understanding of time management in 
 ### Tools Used
 
 ![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/PySide6-000000?logo=pyside6&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/time-000000?logo=time&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/playsound-000000?logo=playsound&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/os-000000?logo=os&logoSize=auto)
 
 - Python
 - `time` library
